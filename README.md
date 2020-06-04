@@ -50,8 +50,8 @@ Einfach das Skript aufrufen (der erste Download-Batch kann dauern, da > 70GB):
 
 ## Disclaimer
 
-Die Nutzung der Script erfolgt verständlicherweise auf eigene Gefahr, in privatem Kontext und unter der Voraussetzung, dass der Nutzer Rundfunkbeitragszahler ist. Urheberrechte der Hörspielproduktion seitens Autoren, Redaktionen und Schauspieler sollten respektiert werden.
+Die Nutzung der Script erfolgt verständlicherweise auf eigene Gefahr, im privatem Kontext und unter der Voraussetzung, dass der Nutzer Rundfunkbeitragszahler ist. Urheberrechte der Hörspielproduktion seitens Rundfunkanstalten, Autoren, Redaktionen und Schauspieler sollten respektiert werden.
 
 ## English Description
 
-The german public broadcasting (Öffentlicher Rundfunk) offers downloading some of their (german) audioplays via podcasts and websites. These scripts are toolset for automated downloading these audioplays if you are german citizen and therefore a monetary contributer (Beitragszahler).
+The german public broadcasting (Öffentlicher Rundfunk) offers downloading some of their (german) audioplays via podcasts and websites. These scripts are a toolset for automated downloading these audioplays if you are german citizen and therefore a monetary contributer (Beitragszahler).
